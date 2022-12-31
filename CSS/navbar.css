@@ -51,12 +51,14 @@ body {
     align-items: center;
 }
 .right_nav_rest1{
-    width: 50%;
+    width: 65%;
+    font-size: .9rem;
     display: none;
 }
+
 .right_nav_rest1 .user_icon{
 background-color: white;
-padding: .5rem;
+padding: 0.5rem;
 border-radius: 50%;
 }
 .right_nav_rest1 .fa-user{
